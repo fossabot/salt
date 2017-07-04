@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fferadi%2Fsalt.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fferadi%2Fsalt?ref=badge_shield)
+
 ==================
 What is SaltStack?
 ==================
@@ -108,3 +110,7 @@ the world. The following links should get you started:
 
 `<https://docs.saltstack.com/en/latest/topics/development/index.html>`_
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fferadi%2Fsalt.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fferadi%2Fsalt?ref=badge_large)
